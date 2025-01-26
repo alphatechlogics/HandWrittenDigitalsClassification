@@ -1,0 +1,58 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environments
+venv/
+env/
+/env/
+.env/
+*.env
+env/
+
+# Package Files
+*.egg-info/
+dist/
+build/
+
+# Logs and Debugging
+*.log
+*.out
+*.err
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# IDE and Editor Configurations
+.vscode/
+.idea/
+*.iml
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# TensorFlow/Model Files
+
+*.keras
+*.ckpt
+checkpoints/
+saved_model/
+
+# Streamlit Cache
+.streamlit/
+.cache/
+__pycache__/
+
+# Lottie Animation Files
+lottie.json
+
+# Temporary Files
+*.tmp
+*.swp
+*.bak
+*.~*
+
+# Uploaded Files
+uploads/

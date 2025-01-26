@@ -30,7 +30,7 @@ Welcome to the **MNIST Digit Recognition** project! This repository demonstrates
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-repo/mnist-digit-recognition.git
+   git clone https://github.com/alphatechlogics/HandWrittenDigitalsClassification.git
    cd mnist-digit-recognition
    ```
 
