@@ -46,7 +46,7 @@ saved_model/
 __pycache__/
 
 # Lottie Animation Files
-lottie.json
+#lottie.json
 
 # Temporary Files
 *.tmp
