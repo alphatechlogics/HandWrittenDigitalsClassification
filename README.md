@@ -1,7 +1,7 @@
 # 🧮 MNIST Digit Recognition Project
 
 Welcome to the **MNIST Digit Recognition** project! This repository demonstrates a complete workflow for building, training, and deploying a neural network to recognize handwritten digits from the MNIST dataset. Additionally, it includes an interactive **Streamlit web app** for showcasing the model's capabilities.
-
+https://www.kaggle.com/datasets/hojjatk/mnist-dataset
 ---
 
 ## ✨ Features
